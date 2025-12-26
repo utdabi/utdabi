@@ -6,8 +6,8 @@ MS Business Analytics @ UT Dallas
 Transitioning from 7+ years of enterprise systems implementation to data analytics and engineering. Passionate about turning data into actionable insights.
 
 ## 📊 Featured Projects
-Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfolio)**:
-- Digital Advertisement Analytics (Python)
+Check out my **Analytics Portfolio**:
+- [Digital Advertisement Analytics (Python)](https://github.com/utdabi/analytics-portfolio/tree/main/exploratory-analysis/Digital_Advertisement_Python)
 - Hotel Booking Prediction (R)
 - Data Engineering
 
