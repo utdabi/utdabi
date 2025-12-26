@@ -14,7 +14,7 @@ Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfol
 
 ## 🛠️ Utilities
 
-### [Reverse PDF](https://github.com/utdabi/analytics-portfolio/tree/main/utilities/ReversePDF)
+### [Reverse PDF](https://github.com/utdabi/utdabi/tree/main/utilities/ReversePDF)
 Python utility to reverse PDF page order.
 
 ## 🛠️ Tech Stack
