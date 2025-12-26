@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abi 👋
 
-<!--
-**utdabi/utdabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Business Analytics @ UT Dallas
 
-Here are some ideas to get you started:
+## 🎯 About Me
+Transitioning from 7+ years of enterprise systems implementation to data analytics and engineering. Passionate about turning data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfolio)**:
+- Digital Advertisement Analytics (Python)
+- Hotel Booking Prediction (R)
+- Data Engineering Utilities
+
+## 🛠️ Tech Stack
+**Languages**: Python, R, SQL  
+**Analytics**: pandas, numpy, scikit-learn, ggplot2  
+**Tools**: Snowflake, Azure, Jupyter, Git
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/mahajanabhinav/)
