@@ -9,7 +9,13 @@ Transitioning from 7+ years of enterprise systems implementation to data analyti
 Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfolio)**:
 - Digital Advertisement Analytics (Python)
 - Hotel Booking Prediction (R)
-- Data Engineering Utilities
+- Data Engineering
+
+
+## 🛠️ Utilities
+
+### [Reverse PDF](https://github.com/utdabi/analytics-portfolio/utilities/ReversePDF/)
+Python utility to reverse PDF page order.
 
 ## 🛠️ Tech Stack
 **Languages**: Python, R, SQL  
