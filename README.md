@@ -8,7 +8,7 @@ Transitioning from 7+ years of enterprise systems implementation to data analyti
 ## 📊 Featured Projects
 Check out my **Analytics Portfolio**:
 - [Digital Advertisement Analytics (Python)](https://github.com/utdabi/analytics-portfolio/tree/main/exploratory-analysis/Digital_Advertisement_Python)
-- Hotel Booking Prediction (R)
+- [Hotel Booking Prediction (R)](https://github.com/utdabi/analytics-portfolio/tree/main/predictive-modeling/Hotel_Booking_R)
 - Data Engineering
 
 
