@@ -3,7 +3,7 @@
 MS Business Analytics @ UT Dallas
 
 ## 🎯 About Me
-Transitioning from 7+ years of enterprise systems implementation to data analytics and engineering. Passionate about turning data into actionable insights.
+Business analytics professional transitioning from enterprise CRM implementation into product and data analytics. I focus on turning messy operational and behavioral data into decisions a team can actually act on, backed by a strong SQL and Python foundation and hands-on experience with data migration integrity, BI reporting, and AI-assisted workflow automation.
 
 ## 📊 Featured Projects
 Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfolio)**:
