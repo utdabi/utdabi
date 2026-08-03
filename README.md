@@ -3,7 +3,7 @@
 MS Business Analytics @ UT Dallas
 
 ## 🎯 About Me
-Business analytics professional transitioning from enterprise CRM implementation into product and data analytics. I focus on turning messy operational and behavioral data into decisions a team can actually act on, backed by a strong SQL and Python foundation and hands-on experience with data migration integrity, BI reporting, and AI-assisted workflow automation.
+Business analytics professional transitioning from enterprise CRM implementation into BI and analytics engineering. I focus on turning messy operational data into validated data models, governed metrics, and decision-ready reporting using SQL, Python, Snowflake, dbt, Microsoft Fabric, and Power BI.
 
 ## 📊 Featured Projects
 Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfolio)**:
