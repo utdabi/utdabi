@@ -12,11 +12,6 @@ Check out my **[Analytics Portfolio](https://github.com/utdabi/analytics-portfol
 - [Insider Trading ETL Pipeline (Python, MySQL)](https://github.com/utdabi/analytics-portfolio/tree/main/data-engineering/insider-trading-api-to-mysql) - Automated data pipeline with API integration, multi-stage validation, and Azure MySQL storage
 
 
-## 🛠️ Utilities
-
-### [Reverse PDF](https://github.com/utdabi/analytics-portfolio/tree/main/utilities/ReversePDF)
-Python utility to reverse PDF page order.
-
 ## 🛠️ Tech Stack
 **Languages**: Python, R, SQL  
 **Analytics**: pandas, numpy, matplotlib, tidyverse(dplyr), ggplot2  
